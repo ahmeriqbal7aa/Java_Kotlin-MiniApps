@@ -9,3 +9,12 @@ Android Applications
 
 ## CountdownTimer (In Kotlin)
 <img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/127db64a-3a79-4ed8-9867-ab618c56f179" alt="Project Image" width="200" height="400"/>
+
+## Stopwatch (In Kotlin)
+<img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/afc96be1-836a-40bf-b14c-55b58123a421" alt="Project Image" width="200" height="400"/> <img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/86a1df06-9f93-42d7-bd74-56fd68b21b74" alt="Project Image" width="200" height="400"/> <img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/ec9593f5-fa59-4e13-b3c2-df7fd46f7c3b" alt="Project Image" width="200" height="400"/>
+
+## JustMaths (In Java)
+<img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/4b8bf5ee-1b0e-423f-9200-06d612120976" width="200" height="400"/> <img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/116dce32-eb90-441e-b758-8a82b9fe99cc" width="200" height="400"/> <img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/6a824bde-5635-4d02-83a4-0f70fa4afb67" width="200" height="400"/>
+
+## LoginApp UI (In Kotlin)
+<img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/87a3b563-16a2-4fba-b67b-341f062dfa57" alt="Project Image" width="200" height="400"/> <img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/41c750f3-8686-439a-80be-850244215c57" alt="Project Image" width="200" height="400"/>
