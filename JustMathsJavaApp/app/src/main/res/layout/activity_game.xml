@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DFDED4"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <ImageButton
+            android:id="@+id/btnRight"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="1dp"
+            android:layout_weight="1"
+            android:background="#CA171B"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:src="@drawable/ic_baseline_check_24" />
+
+        <ImageButton
+            android:id="@+id/btnWrong"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_weight="1"
+            android:background="#CA171B"
+            android:paddingTop="25dp"
+            android:paddingBottom="25dp"
+            android:src="@drawable/ic_baseline_close_24" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/topContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:orientation="horizontal"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/txtTime"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_weight="1"
+            android:text="TIME :59"
+            android:textColor="#CA171B"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/txtScore"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text="SCORE: 00"
+            android:textColor="#CA171B"
+            android:textSize="25sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/centerContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/topContainer"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tvQuestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="11+64="
+            android:textColor="#432F21"
+            android:textIsSelectable="false"
+            android:textSize="70sp" />
+
+        <TextView
+            android:id="@+id/tvResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="75"
+            android:textColor="#432F21"
+            android:textIsSelectable="false"
+            android:textSize="70sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvRightWrong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/centerContainer"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="T/F"
+        android:textColor="#432F21"
+        android:textIsSelectable="false"
+        android:textSize="30sp"
+        android:visibility="gone" />
+
+</RelativeLayout>
