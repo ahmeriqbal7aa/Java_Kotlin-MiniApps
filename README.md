@@ -22,4 +22,5 @@ Android Applications
 ## JavaApp (In Java)
 - Includes SQLite CRUD Operations
 - UPDATE (Only the first record will be updated)
+
 <img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/0d63213d-c0d1-4e54-84bf-0633f00a0ea2" alt="Project Image" width="200" height="400"/> <img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/3ee2807d-ea82-424e-9c4a-b3e3091ac794" alt="Project Image" width="200" height="400"/> <img src="https://github.com/ahmeriqbal7aa/Java_Kotlin-MiniApps/assets/73339220/dafba9dc-b0d9-4c81-9a0e-92d10cbf5f18" alt="Project Image" width="200" height="400"/>
